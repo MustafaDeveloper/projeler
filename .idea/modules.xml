@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eski/Digerinin/Digerinin.iml" filepath="$PROJECT_DIR$/eski/Digerinin/Digerinin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eski/MyProject01/MyProject01.iml" filepath="$PROJECT_DIR$/eski/MyProject01/MyProject01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project07/Project07.iml" filepath="$PROJECT_DIR$/Project07/Project07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project08/Project08.iml" filepath="$PROJECT_DIR$/Project08/Project08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project10_Selenium1/Project10_Selenium1.iml" filepath="$PROJECT_DIR$/Project10_Selenium1/Project10_Selenium1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eski/eski.iml" filepath="$PROJECT_DIR$/eski/eski.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proje09/proje09.iml" filepath="$PROJECT_DIR$/proje09/proje09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eski/proje1/proje1.iml" filepath="$PROJECT_DIR$/eski/proje1/proje1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eski/proje2/proje2.iml" filepath="$PROJECT_DIR$/eski/proje2/proje2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eski/project1Orj/project1Orj.iml" filepath="$PROJECT_DIR$/eski/project1Orj/project1Orj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler.iml" filepath="$PROJECT_DIR$/projeler.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="eski">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/eski/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/eski/project2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/eski/proje1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
